@@ -16,21 +16,7 @@ This project is focused on understanding ML experiment management, not just trai
 ✔ Confusion matrix logging
 ✔ MLflow vs DVC — roles, differences, and when to use what
 
-🗂️ Repository Structure
-.
-├── src/
-│   └── file1.py                 # MLflow experiments & hyperparameter tuning
-│
-├── mlruns/                      # Local MLflow tracking data
-├── mlartifacts/                 # Logged artifacts (models, plots, etc.)
-│
-├── Confusion-matrix.png         # Logged evaluation artifact
-├── autolog.txt                  # Notes & observations on MLflow autolog
-├── mlflow basic.txt             # MLflow core concepts & theory
-│
-├── README.md
-├── LICENSE
-└── .gitignore
+
 
 🧠 Key Concepts Demonstrated
 🔹 MLflow Basics
