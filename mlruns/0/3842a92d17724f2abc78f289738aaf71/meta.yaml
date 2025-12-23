@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3842a92d17724f2abc78f289738aaf71/artifacts
+end_time: 1766487103065
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3842a92d17724f2abc78f289738aaf71
+run_name: unequaled-mare-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766487102874
+status: 4
+tags: []
+user_id: shaurya

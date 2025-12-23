@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/381546929088980725/7b2129bac253449783e95b9339b26fc9/artifacts
+end_time: 1766488311516
+entry_point_name: ''
+experiment_id: '381546929088980725'
+lifecycle_stage: active
+run_id: 7b2129bac253449783e95b9339b26fc9
+run_name: big-zebra-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766488307794
+status: 3
+tags: []
+user_id: shaurya

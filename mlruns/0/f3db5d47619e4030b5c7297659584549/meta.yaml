@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f3db5d47619e4030b5c7297659584549/artifacts
+end_time: 1766486120011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3db5d47619e4030b5c7297659584549
+run_name: skittish-cow-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766486119996
+status: 3
+tags: []
+user_id: shaurya

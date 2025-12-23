@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/381546929088980725/b08f9e1f44c844eaa84062234b30364c/artifacts
+end_time: 1766487807091
+entry_point_name: ''
+experiment_id: '381546929088980725'
+lifecycle_stage: active
+run_id: b08f9e1f44c844eaa84062234b30364c
+run_name: bemused-owl-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766487806796
+status: 3
+tags: []
+user_id: shaurya

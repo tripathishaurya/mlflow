@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e6ca13738c074bbaa2ee1a1687c4ad08/artifacts
+end_time: 1766486980451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6ca13738c074bbaa2ee1a1687c4ad08
+run_name: aged-donkey-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766486980180
+status: 3
+tags: []
+user_id: shaurya

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c890aa24d0ef4530953d6f49b4f20ec1/artifacts
+end_time: 1766485946315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c890aa24d0ef4530953d6f49b4f20ec1
+run_name: aged-cat-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766485946302
+status: 3
+tags: []
+user_id: shaurya

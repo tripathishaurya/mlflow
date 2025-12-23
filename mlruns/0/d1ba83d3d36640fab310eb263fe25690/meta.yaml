@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d1ba83d3d36640fab310eb263fe25690/artifacts
+end_time: 1766487182835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1ba83d3d36640fab310eb263fe25690
+run_name: rambunctious-hog-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766487182542
+status: 3
+tags: []
+user_id: shaurya
